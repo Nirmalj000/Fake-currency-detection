@@ -18,3 +18,6 @@ back into the database.
 • After the results have been predicted by the model and uploaded to the database, the android 
 application fetches the results instantly and the results will be displayed on the app through 
 JSON object.  
+## Results
+![image](https://user-images.githubusercontent.com/54202985/180795164-1cf04556-647b-4229-a4a4-a44d925fbdb5.png)
+![image](https://user-images.githubusercontent.com/54202985/180795261-8a296f82-7156-4229-8fa0-ec37e4f95dd0.png)
